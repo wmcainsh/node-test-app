@@ -1,0 +1,14 @@
+# npm files
+node_modules
+npm-debug.log
+
+# docker related files
+Dockerfile
+.dockerignore
+
+# git files
+.git
+.gitignore
+
+# pipeline files
+/pipelines
